@@ -1,0 +1,7 @@
+models/
+wandb/
+minGPT/
+minGPT-fastai.ipynb
+minGPT-Fastai_Play_Char_fp16_test.ipynb
+.ipynb_checkpoints/
+input.txt
